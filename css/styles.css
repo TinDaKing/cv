@@ -1,0 +1,16 @@
+body{
+  background-color: #FBF8F1; /*css internal only change affected characters */
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #F7ECDE;
+  border-width: 5px;
+  width: 5%;
+}
+h1{
+  color: #54BAB9;
+}
+h3{
+  color: #54BAB9;
+}
